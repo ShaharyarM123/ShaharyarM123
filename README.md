@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Shaharyar 👋
 
-<!--
-**ShaharyarM123/ShaharyarM123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Web Developer & Prompt Engineer focused on building practical, clean, and scalable web solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Working On
+Public Civil Issues —> building technology-driven solutions for real-world community problems.
+🛠️ Tools & Technologies
+Frontend: React, Next.js, JavaScript, Tailwind CSS, shadcn/ui
+Backend: Node.js, Express.js, REST APIs, MongoDB
+Other: Git, GitHub, AI & Prompt Engineering
+📫 Reach Me
+Have a question or want to collaborate? Drop me a message on Instagram, I'll reply as soon as I can.
